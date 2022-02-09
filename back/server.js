@@ -8,7 +8,7 @@ const cors = require('cors')
 const app = express()
 
 const PORT = 5000
-const HOST = `0.0.0.0`
+const HOST = '0.0.0.0'
 
 app.use(cors())
 
